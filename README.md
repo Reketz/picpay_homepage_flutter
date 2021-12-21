@@ -1,4 +1,8 @@
-# picpay_clone_app
+# PICPAY HOME PAGE
+
+<p align="center">
+  <img src="https://github.com/Reketz/picpay_homepage_flutter/blob/master/layout.png">
+</p>
 
 A new Flutter project.
 
